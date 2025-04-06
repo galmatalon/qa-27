@@ -72,3 +72,11 @@ You can find my official certification here:
 Looking for a QA professional with hands-on automation experience? You might have just found one! 😃
 
 📌 Connect with me on [LinkedIn](YOUR_LINKEDIN_PROFILE)
+
+<p align="center">
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://automation.co.il/wp-content/uploads/2020/06/cropped-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%9C%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%A6%D7%99%D7%94.png" alt="Website Preview" width="400"/>
+  </a>
+</p>
+
+<p align="center"><b>✨ לחצו על התמונה כדי לבקר באתר שלנו ✨</b></p>
